@@ -1,6 +1,6 @@
 <html>
 <head>    
-<title>MichalCygan<title>
+<title>MichalCygan</title>
 </head>
 <body>
     <h1>
